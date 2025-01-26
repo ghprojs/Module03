@@ -48,7 +48,7 @@ aside {
     margin-left: 50px;
     float: right;
     text-align: right;
-    border-right: 15px solid #24004b;
+    border-right: 15px solid orange;
 }
 
 aside::first-line {
